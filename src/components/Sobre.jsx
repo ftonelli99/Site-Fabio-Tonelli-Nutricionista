@@ -6,7 +6,9 @@ export default function Sobre() {
           <div className="sobre-image" data-aos="fade-right" data-aos-duration="1000">
             <h2 className="sobre-image-title">Quem é <span className="gold-text">Fábio Tonelli?</span></h2>
             <div className="image-placeholder">
-              <img src="/fabio-perfil.png" alt="Fábio Tonelli" loading="lazy" />
+              <div className="sobre-image-inner">
+                <img src="/fabio-perfil.png" alt="Fábio Tonelli" loading="lazy" />
+              </div>
             </div>
           </div>
           <div className="sobre-text" data-aos="fade-left" data-aos-duration="1000">
