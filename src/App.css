@@ -315,9 +315,6 @@ body {
   height: 100%;
   object-fit: cover;
   object-position: center;
-  opacity: 0;
-  animation: imageReveal 1.4s ease-out 0.3s forwards;
-  will-change: transform, opacity;
   transition: transform 0.6s ease;
 }
 
@@ -349,11 +346,6 @@ body {
   0% { transform: translateX(-110%); }
   60% { transform: translateX(0); }
   100% { transform: translateX(110%); }
-}
-
-@keyframes imageReveal {
-  0% { opacity: 0; transform: scale(1.08); filter: blur(6px); }
-  100% { opacity: 1; filter: blur(0); }
 }
 
 .sobre-text p {
