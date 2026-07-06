@@ -3,7 +3,7 @@ export default function InstagramSection() {
     <section className="section instagram-section">
       <div className="container center">
         <h2 className="section-title center" data-aos="fade-up">
-          Me acompanhe nas minhas <span className="gold-text">redes sociais</span>
+          Minhas <span className="gold-text">Redes Sociais</span>
         </h2>
         <p className="instagram-text" data-aos="fade-up" data-aos-delay="100">
           Acompanhe dicas de nutrição, receitas e conteúdo exclusivo
