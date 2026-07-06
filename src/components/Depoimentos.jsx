@@ -1,18 +1,18 @@
 const depoimentos = [
   {
-    foto: 'https://randomuser.me/api/portraits/women/44.jpg',
+    foto: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=48&h=48&fit=crop&crop=face',
     nome: 'Ana Carolina',
     tempo: 'Há 2 meses',
     texto: '"O Fábio é um profissional incrível! Consegui finalmente organizar minha alimentação sem passar fome. O plano foi feito para a minha rotina e os resultados vieram naturalmente."',
   },
   {
-    foto: 'https://randomuser.me/api/portraits/men/32.jpg',
+    foto: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=48&h=48&fit=crop&crop=face',
     nome: 'Ricardo Oliveira',
     tempo: 'Há 1 mês',
     texto: '"Sempre tive dificuldade em manter dieta, mas o acompanhamento do Fábio é diferente. Ele realmente entende a rotina do paciente e adapta tudo. Perdi 8kg em 3 meses sem sofrer."',
   },
   {
-    foto: 'https://randomuser.me/api/portraits/women/68.jpg',
+    foto: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=48&h=48&fit=crop&crop=face',
     nome: 'Juliana Costa',
     tempo: 'Há 3 meses',
     texto: '"Profissional super atencioso e dedicado. As consultas online são muito práticas e o suporte via WhatsApp faz toda diferença. Recomendo de olhos fechados!"',
