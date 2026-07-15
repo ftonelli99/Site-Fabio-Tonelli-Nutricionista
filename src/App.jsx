@@ -6,6 +6,7 @@ import Sobre from './components/Sobre'
 import ComoFunciona from './components/ComoFunciona'
 import Processo from './components/Processo'
 import Planos from './components/Planos'
+import Parceiros from './components/Parceiros'
 import FAQ from './components/FAQ'
 import Depoimentos from './components/Depoimentos'
 import InstagramSection from './components/InstagramSection'
@@ -32,6 +33,7 @@ export default function App() {
       <Processo />
       <Marquee text="EMAGRECIMENTO • DOENÇAS CRÔNICAS • OBESIDADE • NUTRIÇÃO CLÍNICA • REEDUCAÇÃO ALIMENTAR • PERFORMANCE • SAÚDE • BEM-ESTAR" duration="120s" />
       <Planos />
+      <Parceiros />
       <Marquee text="EMAGRECIMENTO • DOENÇAS CRÔNICAS • OBESIDADE • NUTRIÇÃO CLÍNICA • REEDUCAÇÃO ALIMENTAR • PERFORMANCE • SAÚDE • BEM-ESTAR" duration="120s" />
       <FAQ />
       <Marquee text="EMAGRECIMENTO • DOENÇAS CRÔNICAS • OBESIDADE • NUTRIÇÃO CLÍNICA • REEDUCAÇÃO ALIMENTAR • PERFORMANCE • SAÚDE • BEM-ESTAR" duration="120s" />
